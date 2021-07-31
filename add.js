@@ -2,7 +2,7 @@
 2) give option to user for add/sub/mul/div (write 4 functions not a singlefunction)
 3) execute the required operator function on numbers give in (1)
 4) print output */
-//practice for git hub
+
 
 const readline = require('readline-sync');
 

@@ -14,4 +14,5 @@ function numberOfFactors(number)
     var result = result.length;
     return result;
 }
+// printing no; of factors for a number
 console.log(numberOfFactors(6));
